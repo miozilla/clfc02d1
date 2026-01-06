@@ -23,7 +23,7 @@ clfc02d1 : Amazon S3 # Simple Storage Service # Bucket Policy # CLF-C02
 
 ![clfc02d1005.png](./media/clfc02d1005.png)
 
-![clfc02d1006a.png](./media/clfc02d1006a.png)
+![clfc02d1006.png](./media/clfc02d1006.png)
 
 ![clfc02d1007.png](./media/clfc02d1007.png)
 
